@@ -35,14 +35,23 @@ número de centros de distribuição da empresa, o número de rotas entre estes
 centros de distribuição e a quantidade de consultas desejadas. Exemplo:
 
 4 5 3
+
 1 2 4.0
+
 1 4 4.3
+
 2 3 3.8
+
 2 4 5.5
+
 3 4 3.3
+
 1 3
+
 1 4
+
 1 2
+
 
 Na primeira linha: 4 centros de distribuição,
 5 rotas entre estes centros, e 3 consultas são desejadas. As cinco linhas seguintes
